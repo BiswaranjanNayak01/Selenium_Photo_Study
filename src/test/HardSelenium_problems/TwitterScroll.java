@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.List;
 
-public class TwitterScroll {
+public class  TwitterScroll {
     public static void main(String[] args) throws InterruptedException {
 
         ChromeOptions chromeOptions=new ChromeOptions();
